@@ -9,7 +9,7 @@ please check requirements before running
 pip install -r requirements.txt
 ```
 
-Checkpoint Trained on Emotic:
+Checkpoint Trained on Emotic: https://drive.google.com/file/d/1R5zG6oEKGQLvywChMAG8emAfbdTxxciS/view?usp=sharing
 
 run test:
 ```shell
@@ -27,7 +27,7 @@ python3 main.py \
 ```
 
 
-Checkpoint Trained on CAER-S:
+Checkpoint Trained on CAER-S: https://drive.google.com/file/d/1bevCKtalxwkx_mKVgb3fKlZb4t9TFZOj/view?usp=sharing
 
 run test:
 ```shell
