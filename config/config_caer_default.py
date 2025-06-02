@@ -1,0 +1,16 @@
+config = {
+    'mode': 'train_test',
+    'data_path': r'C:\koe\DataCenter\CAERS',
+    'context_model': 'resnet50',
+    'body_model': 'swin_t',
+    'face_model': 'sfer',
+    'arch': 'caer_multistream',
+    'continuous_loss_type': 'L2',
+    'discrete_loss_weight_type': 'dynamic',
+    'learning_rate': 0.001,
+    'optimizer': 'Adam',
+    'scheduler': 'exp',
+    'warmup': 1000,
+    'epochs': 1,
+    'batch_size': 32,
+}

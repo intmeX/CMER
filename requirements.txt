@@ -1,0 +1,9 @@
+tensorboardX
+scipy
+scikit-learn
+opencv-python
+transformers
+torchsummary
+numpy==1.24.3
+pandas
+seaborn
